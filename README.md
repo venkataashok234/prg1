@@ -1,1 +1,2 @@
-# prg1
+# prg
+print("Hello world");
